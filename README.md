@@ -1,13 +1,13 @@
 # Software_development_tycoon
 This is a game based on software development lifecycles made in pygame
 
-#Requirements
-Python
+## Requirements
+### Python
 
-Pygame
+### Pygame
 To install pygame run the command pip install pygame.
 
-#Summary:
+## Summary:
 The game follows the story of an aspiring entrepreneur, who has started his own company. He has to develop software for various companies using different Software Development Lifecyle Models. Using correct models will save time and money and result in less bugs thus making more money. He can hire more developers with the money earned cutting down the development time.
 Currently the game supports three contrasting SDLC models:
 1.	Adhoc

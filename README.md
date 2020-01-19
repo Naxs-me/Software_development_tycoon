@@ -1,5 +1,6 @@
 # Software_development_tycoon
-This is a game based on software development lifecycles made in pygame
+This is a game based on software development lifecycles made in pygame.
+To run the game run main.py.
 
 ## Requirements
 ### Python
